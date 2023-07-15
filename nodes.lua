@@ -29,6 +29,8 @@ ns.points = {
         [72962405] = {}, --Loatheb 2
         [68003513] = {}, --Loatheb 3
         [63376800] = {}, --Loatheb 4
+        [37156460] = {}, --Loatheb 5
+
     },
     [164] = { -- military wing
         [45064486] = {}, --Razuvious 1
@@ -40,7 +42,7 @@ ns.points = {
         [30526496] = {}, --horseman 5
         [32488555] = {}, --horseman 6
     },
-    [162] = { -- military wing
+    [162] = { -- construct wing
         [38467457] = {}, --Patchwerk 1
         [69575415] = {}, --Grobbulus 1
         [51263872] = {}, --Gluth 1

@@ -3,7 +3,7 @@
 ## Notes: Frozen Rune locations in Naxxramas
 ## IconTexture: Interface/Addons/HandyNotes_NaxxFrozenRunes/HandyNotes_NaxxFrozenRunes.blp
 ## Author: Keyboardturner
-## Version: 1
+## Version: 2
 ## DefaultState: enabled
 ## SavedVariables: HandyNotes_NaxxFrozenRunesDB
 ## RequiredDeps: HandyNotes
