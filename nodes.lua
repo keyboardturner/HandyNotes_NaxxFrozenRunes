@@ -18,8 +18,9 @@ ns.points = {
         [29613882] = {}, --Anub'Rekhan 1
         [44994012] = {}, --Faerlina 1
         [61175212] = {}, --Faerlina 2
-        [40512519] = {}, --Maexxna 2
-        [72440914] = {}, --Maexxna 1
+        [40512519] = {}, --Maexxna 1
+        [72440914] = {}, --Maexxna 2
+        [48371912] = {}, --Maexxna 2
     },
     [165] = { -- plague wing
         [35116180] = {}, --Noth 1
@@ -30,7 +31,6 @@ ns.points = {
         [68003513] = {}, --Loatheb 3
         [63376800] = {}, --Loatheb 4
         [37156460] = {}, --Loatheb 5
-
     },
     [164] = { -- military wing
         [45064486] = {}, --Razuvious 1
@@ -45,6 +45,7 @@ ns.points = {
     [162] = { -- construct wing
         [38467457] = {}, --Patchwerk 1
         [69575415] = {}, --Grobbulus 1
+        [63473747] = {}, --Grobbulus 2
         [51263872] = {}, --Gluth 1
         [36493930] = {}, --Thaddius 1
         [33796155] = {}, --Thaddius 2
