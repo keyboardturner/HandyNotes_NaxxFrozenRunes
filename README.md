@@ -8,3 +8,6 @@
 <p>There is no way of knowing if you've looted a frozen rune already and many of these are in fact actually capable of respawning.</p>
 <p>&nbsp;</p>
 <p>If you find additional Frozen Rune locations, send a screenshot of the map location. I'm pretty sure I got them all but it's always possible I missed one.</p>
+
+
+A link to my discord for addon projects and other things can be found [here](https://discord.gg/tA4rrmjPp8).
